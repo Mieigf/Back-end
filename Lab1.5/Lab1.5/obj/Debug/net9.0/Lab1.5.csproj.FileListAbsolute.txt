@@ -1,0 +1,14 @@
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\bin\Debug\net9.0\Lab1.5.exe
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\bin\Debug\net9.0\Lab1.5.deps.json
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\bin\Debug\net9.0\Lab1.5.runtimeconfig.json
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\bin\Debug\net9.0\Lab1.5.dll
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\bin\Debug\net9.0\Lab1.5.pdb
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\obj\Debug\net9.0\Lab1.5.GeneratedMSBuildEditorConfig.editorconfig
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\obj\Debug\net9.0\Lab1.5.AssemblyInfoInputs.cache
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\obj\Debug\net9.0\Lab1.5.AssemblyInfo.cs
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\obj\Debug\net9.0\Lab1.5.csproj.CoreCompileInputs.cache
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\obj\Debug\net9.0\Lab1.5.dll
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\obj\Debug\net9.0\refint\Lab1.5.dll
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\obj\Debug\net9.0\Lab1.5.pdb
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\obj\Debug\net9.0\Lab1.5.genruntimeconfig.cache
+F:\CNTT 19-09 Back-End\Lab1.5\Lab1.5\obj\Debug\net9.0\ref\Lab1.5.dll
